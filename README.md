@@ -50,7 +50,7 @@ The primary goal is to help users understand and compare how different pathfindi
    - Often finds a path, but not always the shortest one.
 2. **Breadth-First Search (BFS)**
    - Explores nodes level by level, guaranteeing the shortest path in an unweighted graph.
-3. **A* Search**
+3. **A-STAR Search**
    - Combines the benefits of DFS and BFS using a heuristic to guide the search.
 4. **Hill Climbing**
    - Uses heuristics to make decisions at each step but doesn't guarantee a solution.
